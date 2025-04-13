@@ -41,14 +41,16 @@
       "Express.js",
       "REST API",
       "PHP",
-      "Django"
+      "Django",
+      "Java"
     ],
     "database": [
       "MySQL",
       "PostgreSQL",
       "MongoDB",
       "Firebase",
-      "Prisma"
+      "Prisma",
+      "Redis"
     ]
   },
   "experience": [
