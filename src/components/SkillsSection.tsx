@@ -27,7 +27,7 @@ const SkillsSection = () => {
     {
       title: 'Mobile',
       icon: <Smartphone className="h-5 w-5 text-code-orange" />,
-      skills: ['React Native', 'Expo', 'Mobile UI/UX']
+      skills: ['React Native', 'Expo']
     },
     {
       title: 'Languages',
@@ -37,7 +37,7 @@ const SkillsSection = () => {
     {
       title: 'Tools',
       icon: <GitBranch className="h-5 w-5 text-code-purple" />,
-      skills: ['Git', 'Webpack', 'Vite', 'Jest', 'Docker', 'Figma']
+      skills: ['Git', 'Open AI', 'cursor','VS Code']
     }
   ];
 
