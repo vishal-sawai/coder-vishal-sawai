@@ -42,7 +42,7 @@
       "REST API",
       "PHP",
       "Django",
-      "Java"
+      "LiveKit"
     ],
     "database": [
       "MySQL",
@@ -82,6 +82,40 @@
     }
   ],
   "projects": [
+    {
+      "title": "Brite Algo",
+      "description": "Practice Realistic Mock Interviews With AI, Get Instant Feedback, Create Professional Resumes, And Improve Your Performance. Designed For Job Seekers Who Want To Excel.",
+      "tags": [
+        "React.js",
+        "Zustand",
+        "Tailwind CSS",
+        "Node.js",
+        "Express.js",
+        "Firebase",
+        "LiveKit",
+        "PostgreSQL",
+        "Prisma ORM",
+        "Razorpay",
+        "Python (Ai Agent)",
+        "LLM",
+        "REST API",
+        "TypeScript"
+      ],
+      "image": "https://placehold.co/600x400/1A1A2E/FFFFFF?text=Bharat+Property",
+      "images": [
+        "images/Projects/BA/1.png",
+        "images/Projects/BA/2.png",
+        "images/Projects/BA/3.png",
+        "images/Projects/BA/4.png",
+        "images/Projects/BA/5.png",
+        "images/Projects/BA/6.png",
+        "images/Projects/BA/7.png"
+      ],
+      "demo": "https://www.britealgo.com/",
+      "code": "",
+      "category": "fullstack",
+      "hasSlider": true
+    },
     {
       "title": "BPSB",
       "description": "A streamlined housing platform connecting property owners with potential tenants or buyers, simplifying listing, viewing, and management.",
